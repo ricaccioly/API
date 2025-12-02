@@ -1,21 +1,14 @@
-{
-"firstName": "John",
-"lastName": "Smith",
-"age": 25,
-"address": {
-"streetAddress": "21 2nd Street",
-"city": "New York",
-"state": "NY",
-"postalCode": 10021
-},
-"phoneNumbers": [
-{
-"type": "home",
-"number": "212 555-1234"
-},
-{
-"type": "fax",
-"number": "646 555-4567"
-}
+[
+  {
+    "cod_curso": 101,
+    "descricao": "Introdução à Ciência da Computação"
+  },
+  {
+    "cod_curso": 102,
+    "descricao": "Design de Interfaces Modernas"
+  },
+  {
+    "cod_curso": 103,
+    "descricao": "Engenharia de Software Avançada"
+  }
 ]
-}
