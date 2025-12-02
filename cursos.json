@@ -1,5 +1,4 @@
-[
-{"cod_curso": 205,"descricao" : "PÓS-GRADUAÇÃO EM GESTÃO DE PROJETOS EM ARQUITETURA PARA CONSTRUÇÃO"},
+[{"cod_curso": 205,"descricao" : "PÓS-GRADUAÇÃO EM GESTÃO DE PROJETOS EM ARQUITETURA PARA CONSTRUÇÃO"},
 {"cod_curso": 206,"descricao" : "PÓS-GRADUAÇÃO EM GESTÃO ESCOLAR E COORDENAÇÃO PEDAGÓGICA"},
 {"cod_curso": 207,"descricao" : "PÓS-GRADUAÇÃO EM GESTÃO ESTRATÉGICA DE EMPRESAS E MARKETING"},
 {"cod_curso": 209,"descricao" : "PÓS-GRADUAÇÃO EM GESTÃO FINANCEIRA, CONTROLADORIA E AUDITORIA"},
@@ -525,5 +524,4 @@
 {"cod_curso": 098,"descricao" : "TECNOLOGIA EM LATICINIOS"},
 {"cod_curso": 188,"descricao" : "RESIDÊNCIA EM ENFERMAGEM"},
 {"cod_curso": 237,"descricao" : "COMÉRCIO EXTERIOR"},
-{"cod_curso": 247,"descricao" : "REDES DE COMPUTADORES"},
-]
+{"cod_curso": 247,"descricao" : "REDES DE COMPUTADORES"}]
